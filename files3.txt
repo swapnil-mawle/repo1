@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 3rd file
+=======
+
+>>>>>>> 535857a0defe762a952ed35fcf7e9419585bc951
